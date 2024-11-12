@@ -11,3 +11,4 @@ class Departamento(Director):
 
     def get_area(self):
         return self._area
+

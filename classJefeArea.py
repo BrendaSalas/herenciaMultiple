@@ -11,3 +11,4 @@ class JefeArea(Area):
 
     def get_equipo(self):
         return self._equipo
+

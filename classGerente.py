@@ -12,3 +12,4 @@ class Gerente(Area):
     def get_departamento(self):
         return self._departamento
 
+

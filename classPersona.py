@@ -15,3 +15,4 @@ class Persona:
 
     def get_edad(self):
         return self._edad
+

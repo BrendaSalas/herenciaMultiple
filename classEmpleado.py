@@ -20,3 +20,4 @@ class Empleado(Gerente, Persona):
 
     def get_antiguedad(self):
         return self._antiguedad
+

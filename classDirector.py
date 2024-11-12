@@ -15,3 +15,4 @@ class Director:
 
     def get_salario(self):
         return self._salario
+
